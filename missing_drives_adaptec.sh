@@ -1,5 +1,6 @@
 #!/bin/bash
 #Created:Pawel Radko
+#Purpose: Detect missing drives from the arrays. 
 #Modified:2.2
 #color
 RED='\033[0;31m'
